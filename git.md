@@ -1,7 +1,3 @@
-Avec plaisir — voici ton fichier prêt à copier-coller direct dans ton `README.md` pour un but éducatif :
-
----
-
 ```markdown
 # 📖 Guide Git & GitHub — Prise en main éducative
 
