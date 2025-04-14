@@ -26,3 +26,7 @@ Bienvenue dans ce guide qui résume les bases et les bonnes pratiques à connaî
 ```bash
 git init
 
+### 🔄 Cloner un dépôt existant
+bash
+git clone url_du_repo
+
