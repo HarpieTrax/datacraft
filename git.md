@@ -18,10 +18,6 @@ Ce document explique les bases de **Git** et **GitHub**, leurs objectifs, les bo
 - Travailler sur des fonctionnalités séparées via les branches.
 - Publier son code et le partager facilement.
 
-
-
-
-
 ## 🛠️ Installation et configuration de Git sous WSL et Visual Studio Code
 
 Avant de commencer à utiliser Git et GitHub, voici comment l’installer et le configurer correctement sous **WSL (Windows Subsystem for Linux)**, et l’utiliser depuis **Visual Studio Code**.
@@ -109,7 +105,7 @@ Une fois dans ton projet :
 git init
 ```
 
-Puis continue avec les commandes de base (`git add`, `git commit`, `git push`...).
+Puis continue avec les commandes de base (`git add`, `git commit`, `git push`...) expliqué dans la suite du tutoriel !
 
 ---
 
@@ -125,13 +121,6 @@ Puis continue avec les commandes de base (`git add`, `git commit`, `git push`...
 | Ouvrir un dossier WSL dans VS Code | `code .`                                        |
 
 ---
-
-## ✅ Conclusion
-
-Une fois Git installé et configuré sous WSL, et Visual Studio Code prêt, tu peux travailler confortablement sur tes projets Python tout en versionnant proprement ton code et en collaborant avec GitHub.
-
-
-
 
 ## 🚀 Commandes de base à connaître
 
