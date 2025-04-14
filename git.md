@@ -105,7 +105,7 @@ Une fois dans ton projet :
 git init
 ```
 
-Puis continue avec les commandes de base (`git add`, `git commit`, `git push`...) expliqué dans la suite du tutoriel !
+Puis continue avec les commandes de base (`git add`, `git commit`, `git push`...) expliqué juste après dans le tutoriel !
 
 ---
 
