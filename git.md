@@ -142,7 +142,3 @@ Git et GitHub sont essentiels pour bien structurer un projet et collaborer effic
 ```
 
 ---
-
-✅ Tu peux maintenant coller ce texte dans ton fichier `README.md` et l’adapter si besoin à ton contexte éducatif ou à ton école.
-
-Si tu veux, je peux aussi te faire une bannière ASCII ou un sommaire interactif pour ton README 😉. Tu veux ?
