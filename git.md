@@ -1,4 +1,4 @@
-# 📖 Guide Git & GitHub — Prise en main éducative
+# 📖 Guide Git & GitHub 
 
 Ce document explique les bases de **Git** et **GitHub**, leurs objectifs, les bonnes pratiques, les commandes essentielles et un workflow type. Parfait pour débuter et structurer son travail en développement.
 
