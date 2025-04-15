@@ -133,7 +133,7 @@ git init
 ```bash
 git clone url_du_repo
 ```
-![Vous trouverez l'URL du dépot en appuyant sur "<>code" en vert (copiez celui en HTTPS)] (datacraft/images/Capture.PNG)
+![Vous trouverez l'URL du dépot en appuyant sur "<>code" en vert (copiez celui en HTTPS)](datacraft/images/Capture.PNG)
 
 ### 📑 Vérifier l’état du projet
 ```bash
