@@ -3,8 +3,11 @@ from typing import Optional
 from IPython import embed
 from functools import cache
 
+<<<<<<< HEAD
 #test
 
+=======
+>>>>>>> 7989a715a8d0cdc16fa8ffd1164869ccb5004718
 @cache
 def f(x):
     return x**2
