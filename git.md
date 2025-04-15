@@ -133,6 +133,7 @@ git init
 ```bash
 git clone url_du_repo
 ```
+#### Vous trouverez l'URL du dépot en appuyant sur "<>code" en vert (copiez celui en HTTPS)
 ![Vous trouverez l'URL du dépot en appuyant sur "<>code" en vert (copiez celui en HTTPS)](/images/Capture.PNG)
 
 ### 📑 Vérifier l’état du projet
